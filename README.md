@@ -9,4 +9,4 @@ This is my first homework assignment for this  bootcamp called Code Refactor. In
 * h tags in sequence
 
 # Note 
-Repository has a unique name "Homework" contains folder name "assets", index.html file, License and README.md file.
+Repository has a unique name "First-week-Homework" contains folder name "assets", index.html file, License and README.md file.
